@@ -31,7 +31,7 @@ jobs:
       - name: 🎯 Run SportsWebcast scraper
         run: |
           playwright install
-          python webcast.py
+          python src/webcast.py
 
       - name: 💾 Commit & Push if Playlist Changed
         env:
