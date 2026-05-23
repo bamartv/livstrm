@@ -31,7 +31,7 @@ jobs:
           playwright install-deps
 
       - name: 🎯 Run scraping script
-        run: python tv.py
+        run: python src/tv.py
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
