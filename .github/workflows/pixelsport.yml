@@ -29,7 +29,7 @@ jobs:
           pip install requests
 
       - name: 🎯 Run PixelSports scraper
-        run: python pixelsport.py
+        run: python src/pixelsport.py
 
       - name: 💾 Commit & Push if Playlist Changed
         env:
