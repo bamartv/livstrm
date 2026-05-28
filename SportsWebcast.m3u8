@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Canadiens" tvg-logo="https://slapstreams.com/wp-content/uploads/2021/04/Montréal-Canadiens.svg" group-title="NHLWebcast - Live Games",Hurricanes @ Canadiens
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Canadiens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Hurricanes @ Canadiens
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://ca3.thegamehd.top/auth/87.m3u8?token=jDGh27mo3TwgSbGVh5Z1_M1-be0U0dAtHAG4uMuMdwuJIu-kt2d_Wmztsr8TGMJU6uOlVhs0hvoNNl3f5_csxo1Vg6JKLpH8Kan5Qqchrj_Gu3MI9jR3wX88iJgE5B86lwey_9DIYu6aSIarDW-ObJDwHS-UvFKKpwT2HE3yqo0oXKM2sXBRS4zI3HNAk_AWJW53VpDJXIytvscBXkaQxGb4th1wGF2Ih0VMfLSPNIZEfwKb-IRY7HdpcdJ-0qpB59Vgm_KD0zQVRjIpYUhPK7Xg5M0jigdPh-XcxGD-K_tdGcaypxPa47FwbQ4YbVfbGSBKWpNkrLDjhDMTKaXWymJrctAP2p1KuMw_kKjsPTVemdnhB7d7yIscWsfLPwt5AY1dh_u-mYGG8KLo05YZwRpaIl4p1uQX313uBDqYiHft8VTTHM5GODQo6FXW7piDzZHTms3pKIaHIbyjExAZlXqaXFXap8g1fnEXkjeyS1JNu5mLa_1oJtMqFGukfGpuZDKBY_2-oI-8z5j5xUV42wtiOO4YsqPReB8WD3aOuc41IwQBIIm0I6uwg8FuaXZyuhxoiW1a1tZBT5LxHnz9Rjduwh8hpLccwvQyIPJFcqA
+https://webcast-origin.b-cdn.net/bcdn_token=CDaPD5kwGzMoR_SwaKqRdpCcmHtNErr1vWrPztV_Kh8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1779980785/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
