@@ -28,7 +28,7 @@ jobs:
         run: pip install requests lxml pytz
 
       - name: Generate EPG and playlist
-        run: python generate.py
+        run: python src/generate.py
 
       - name: Commit and push updated files
         run: |
