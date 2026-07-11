@@ -1,4 +1,4 @@
-name: Update Stream99 Playlist
+name: CDN live events
 
 on:
   # Allows you to trigger it manually from the Actions tab
@@ -34,7 +34,7 @@ jobs:
       run: playwright install chromium --with-deps
 
     - name: Run Scraper Script
-      run: python liveevents.py
+      run: python src/liveevents.py
 
     - name: Commit and Push Playlist
       run: |
