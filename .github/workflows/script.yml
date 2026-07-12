@@ -27,7 +27,7 @@ jobs:
     - name: Execute Python Script
       run: |
         # Replace 'script.py' with the exact name of your python file
-        python script.py
+        python src/script.py
 
     - name: Commit and Push Changes
       run: |
