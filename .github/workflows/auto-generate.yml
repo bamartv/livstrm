@@ -21,7 +21,7 @@ jobs:
         run: pip install requests pyyaml
 
       - name: Run script to download M3U
-        run: python generate_m3u.py
+        run: python src/generate_m3u.py
 
       - name: Commit and push playlist
         run: |
