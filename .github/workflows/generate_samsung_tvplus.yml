@@ -8,8 +8,8 @@ on:
   push:
     branches: [ main ]
     paths: 
-      - 'generate_samsung_tvplus.py'
-      - '.github/workflows/generate-playlist.yml'
+      - 'src/generate_samsung_tvplus.py'
+      - '.github/workflows/generate_samsung_tvplus.yml'
 
 jobs:
   generate:
@@ -30,7 +30,7 @@ jobs:
         pip install requests
         
     - name: Generate playlist and EPG files
-      run: python generate_samsung_tvplus.py
+      run: python src/generate_samsung_tvplus.py
       env:
         # Configuration via environment variables
         REGIONS: 'all'  # Change to specific regions like 'us,uk,ca' if needed
