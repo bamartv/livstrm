@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch playlist content and update Lol.m3u
         run: |
-          curl -s "https://tataplayyash.livenoww.workers.dev/" > Lol.m3u
+          curl -s "https://github.com/aiemas/Mia/blob/main/sportzonline_lista.html" > index.html
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add Lol.m3u
