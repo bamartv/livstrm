@@ -1,4 +1,4 @@
-name: Update Lol Playlist
+name: Convert Playlist
 
 on:
   schedule:
