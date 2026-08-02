@@ -27,7 +27,7 @@ jobs:
 
       - name: 🔹 Run NewPixel.py (Generate thumbnails + M3U)
         run: |
-          python NewPixel.py
+          python src/NewPixel.py
 
       - name: 🔹 Commit & Push (PNG + M3U)
         run: |
