@@ -1,4 +1,4 @@
-name: Merge and Organize M3U Playlists
+name: Merge Playlists
 on:
   push:
     branches: [main]        # adjust if your default branch is different
