@@ -6,9 +6,9 @@ on:
     - cron: '*/10 * * * *'   # every 10 minutes 
   workflow_dispatch:
 
-concurrency:
-  group: merge-playlist
-  cancel-in-progress: false   # queue overlapping runs instead of racing each other
+# concurrency:
+  # group: merge-playlist
+  # cancel-in-progress: false   # queue overlapping runs instead of racing each other
 
 jobs:
   merge:
